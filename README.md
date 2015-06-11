@@ -20,3 +20,8 @@
    along with this program; if not, write to the Free Software Foundation,
    Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 ```
+### others licenses
+```
+Licencia GPL v3\nMenuDrawer Copyright 2012 Simon Vig Therkildsen\nImage wifi by corpus delicti and menu by useiconic.com from the Noun Project
+```
+
