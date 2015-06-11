@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Signal Meter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about"> Developed by:\nCristhoper Jaña Iturra\ncristhoper@gmail.com\n\nJun 2015</string>
+    
+    <string name="show_config">Signal List</string>
+    <string name="show_about">Sobre...</string>
+    
+    <string name="license">Licencia GPL v3\nMenuDrawer Copyright 2012 Simon Vig Therkildsen\nImage wifi by corpus delicti and menu by useiconic.com from the Noun Project</string>
+    
+</resources>
